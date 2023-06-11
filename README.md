@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Yugal](https://github.com/sinhapaurush/yugal)
 - 🌱 I’m currently learning `Node JS`, `Python`, `Flutter`, `Unity` 
-- 🤔 I’m looking for help with Node JS and Flutter
+- 🤔 I’m looking for help with `Unity`, I want to learn to make VR enabled projects
 - 📫 How to reach me: [Mail](mailto:paurush.sinha.d@gmail.com)
