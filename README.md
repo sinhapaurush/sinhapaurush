@@ -5,7 +5,7 @@ I am a student currently studying NodeJS, Python, C, and Flutter. I have knowled
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Yugal
-- 🌱 I’m currently learning Node JS
+- 🔭 I’m currently working on [Yugal](https://github.com/sinhapaurush/yugal)
+- 🌱 I’m currently learning `Node JS`, `Python`, `Flutter`, `Unity` 
 - 🤔 I’m looking for help with Node JS and Flutter
 - 📫 How to reach me: [Mail](mailto:paurush.sinha.d@gmail.com)
