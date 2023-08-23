@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with `Unity`, I want to learn to make VR enabled projects
 - 📫 How to reach me: [Mail](mailto:paurush.sinha.d@gmail.com)
 
-![Paurush's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinhapaurush&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinhapaurush&theme=tokyonight)
