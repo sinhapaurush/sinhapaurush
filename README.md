@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning `Express JS` 
 - 📫 How to reach me: [Mail](mailto:stuff.random.in@gmail.com)
 
-![sinhapaurush's Stats](https://github-readme-stats.vercel.app/api?username=sinhapaurush&theme=onedark&show_icons=true&hide_border=false&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinhapaurush&show_icons=true&theme=gruvbox)
 ![sinhapaurush's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sinhapaurush&theme=onedark&hide_border=false)
+
 ![sinhapaurush's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinhapaurush&theme=onedark&show_icons=true&hide_border=false&layout=compact)
