@@ -5,11 +5,10 @@ I am a student currently studying NodeJS, Python, C, and Flutter. I have knowled
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Yugal](https://github.com/sinhapaurush/yugal)
-- 🌱 I’m currently learning `Express JS` 
+- 🔭 I’m currently working on a vast project, with multiple sub projects. All of these are in private repos.
 - 📫 How to reach me: [Mail](mailto:stuff.random.in@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinhapaurush&show_icons=true&theme=gruvbox)
+![sinhapaurush's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinhapaurush&show_icons=true&theme=gruvbox)
 ![sinhapaurush's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sinhapaurush&theme=onedark&hide_border=false)
 
 ![sinhapaurush's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinhapaurush&theme=onedark&show_icons=true&hide_border=false&layout=compact)
