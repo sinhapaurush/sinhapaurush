@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a vast project, with multiple sub projects. All of these are in private repos.
 - 📫 How to reach me: [Mail](mailto:stuff.random.in@gmail.com)
 
-![sinhapaurush's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinhapaurush&show_icons=true&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinhapaurush&theme=discord_old_blurple)
 
-![sinhapaurush's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinhapaurush&theme=onedark&show_icons=true&hide_border=false&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sinhapaurush&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sinhapaurush&theme=discord_old_blurple)
